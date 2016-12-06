@@ -25,6 +25,7 @@ body {
 	background: #E96D65;
 	font-weight: 300;
 	overflow-x: hidden;
+	text-align: center;
 }
 
 a {
@@ -65,7 +66,7 @@ a:active {
 
 /* Main Content */
 .main {
-	max-width: 50em;
+	max-width: 70em;
 }
 
 /* To Navigation Style */
